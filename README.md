@@ -1,4 +1,5 @@
-CSS stuff v
+**CSS stuff is metnioned below and in styles file**
+
 body, h1, h2, p, a {
     margin: 0;
     padding: 0;
